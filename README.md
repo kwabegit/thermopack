@@ -1,0 +1,4 @@
+thermopack
+==========
+
+thermodynamics python package
